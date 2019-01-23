@@ -55,14 +55,9 @@ public class Field {
             System.out.println("\n");
         }
     }
-
-    public boolean judgeButton(int y, int x) {
-        boolean flag = false;
-        //色々な条件からflagをtrueにするか判断する
-
-        return flag;
-    }
 /*
+
+
     private Counter countStone() {
         Counter counter = new Counter();
         String[][] board = new String[ynum][xnum];
